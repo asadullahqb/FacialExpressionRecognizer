@@ -5,8 +5,8 @@ based on 2D image inputs. The expressions recognised are Happy, Neutral, Sad, Fe
 The neural network chosen is Convolution Neural Network due to its better performance with image data.
 
 The following are the training information and performance results of the neural network... 
-Layers: Please see notebook for breakdown.
-Dataset Size: Training - 28709, Public Test - 3589, and Private Test 3589
-Epochs: 500
-Peak validation accuracy: 64.48%
-Minimum validation loss: 1.0931
+</br> Layers: Please see notebook for breakdown.
+</br> Dataset Size: Training - 28709, Public Test - 3589, and Private Test 3589
+</br> Epochs: 500
+</br> Peak validation accuracy: 64.48%
+</br> Minimum validation loss: 1.0931
